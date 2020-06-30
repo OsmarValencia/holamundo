@@ -1,0 +1,34 @@
+
+
+body  {
+	text-align:  left;
+	color: #F10759;
+background-color: '020202';
+}
+
+h2 {
+
+  color: #AF39EA;
+}
+
+ h1{
+ 	text-align: center;
+ 	font-size:  50px;
+ 	color: green;
+ }
+
+
+p1{
+	text-align:  right;
+	font-size: 30px;
+}
+
+
+head{
+	background-color: 020202;
+}
+
+
+html {
+	background-color: black;
+}
