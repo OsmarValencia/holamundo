@@ -4,7 +4,7 @@
   }
 
 #box{
-    background-color: #66ffff;
+    background-color: #6666ff;
     padding:20px;
    
 }
@@ -14,7 +14,7 @@ h2{
     margin-bottom: 30px;
     padding-top: 20px;
     text-align: center;
-    background-color: #66ffff;
+    background-color: #6666ff;
 }
 
 #highlight {
@@ -213,7 +213,10 @@ h2{
   width: 100%;
 }
 #cosita{
-     position: relative;
+    position: relative;
 }
+
+
+
          
 }

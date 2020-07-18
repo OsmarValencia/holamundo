@@ -1,0 +1,177 @@
+body{
+    background-image: url(fondo3.jpg);
+ padding: 110px 110px 110px 110px;
+  }
+
+
+
+.caja{
+   
+	padding: 30px 30px 30px 30px;
+	float: ;
+background-color:#afffdf; 
+
+}
+
+	/*===========================================
+	=            funciones generales            =
+	===========================================*/
+	h1{
+		font-color:black;
+	font-style: italic;
+	font-size:60px;
+
+	}
+
+h2{
+		font-color:black;
+	font-style: italic;
+	font-size:50px;
+
+}
+	h4{
+	font-color:black;
+	font-family: inherit;
+	font-size:24px;
+
+}
+
+li{
+	   font-size:18px;
+      font-weight: bold;
+    font-color:black;
+    font-family: monospace ;
+
+}
+	
+	/*=====  End of funciones generales  ======*/
+	
+
+
+/*=============================================
+=            Section comment block  primer cuadro :D           =
+=============================================*/
+
+
+
+#respo1{
+
+	border: 4px solid black;
+	
+	
+	background-color:#Fff ;
+}	
+
+#encabezado1{
+	font-size:40px;
+	background-color: #ffff99;
+
+}
+
+
+#parrafo1{
+
+   
+
+     font-size:25px;
+      font-weight: bold;
+    font-color:black;
+    font-style: italic;
+
+    
+}
+
+
+/*=====  End of Section comment block  primer cuadro :D ======*/
+
+
+/*=======================================
+=            segundo cuadro             =
+=======================================*/
+
+#respo2{
+
+	border: 4px solid black;
+	
+	
+	background-color:#fff; 
+}	
+
+#encabezado2{
+
+	font-size:40px;
+	background-color: #DEA4FC;
+}
+
+
+#parrafo2{
+
+   
+
+     font-size:25px;
+      font-weight: bold;
+    font-color:black;
+    font-style: italic;
+}
+
+/*=====  End of segundo cuadro   ======*/
+
+/*=====================================
+=            tercer cuadro            =
+=====================================*/
+#respo3{
+
+	border: 4px solid black;
+	
+	
+	background-color: #fff;
+}	
+
+#encabezado3{
+	font-size:40px;
+	background-color: #ffff99;
+}
+
+
+#parrafo3{
+
+   
+
+    
+    font-size:25px;
+      font-weight: bold;
+    font-color:black;
+    font-style: italic;
+}
+
+/*=====  End of tercer cuadro  ======*/
+
+/*=====================================
+=            cuarto cuadro            =
+=====================================*/
+
+#respo4{
+
+	border: 4px solid black;
+	
+	
+	
+	background-color: #fff;
+}	
+
+#encabezado4{
+	font-size:40px;
+	background-color: #DEA4FC;
+}
+
+
+#parrafo4{
+
+   
+   font-size:25px;
+      font-weight: bold;
+    font-color:black;
+    font-style: italic;
+}
+
+/*=====  End of cuarto cuadro  ======*/
